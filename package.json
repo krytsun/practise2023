@@ -18,5 +18,10 @@
   "homepage": "https://github.com/krytsun/practise2023#readme",
   "devDependencies": {
     "fs-extra": "^11.1.0"
+  },
+  "dependencies": {
+    "alert-js": "^1.0.1",
+    "node-fetch": "^3.3.0",
+    "ripple-js": "^1.4.4"
   }
 }
